@@ -1,5 +1,5 @@
 ---
-name: 💡 Feature Request
+name: ⚙ General Issue
 about: Suggest an idea for CabRental
 title: "[FEATURE]"
 labels: enhancement
