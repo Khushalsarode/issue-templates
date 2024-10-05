@@ -1,7 +1,7 @@
 name: 📑 Feature Request
 description: Suggest an idea for this project
 title: "📑 Feature Request: "
-labels: "enhancement,gssoc24-ext,hacktoberfest,hacktoberfest-accepted,gssoc,gssoc24,gssoc-extd"
+labels: enhancement,gssoc24-ext,hacktoberfest,hacktoberfest-accepted,gssoc,gssoc24,gssoc-extd
 
 body:
   - type: markdown
