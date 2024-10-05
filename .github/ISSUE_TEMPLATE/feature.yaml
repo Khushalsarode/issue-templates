@@ -1,7 +1,14 @@
 name: 📑 Feature Request
 description: Suggest an idea for this project
 title: "📑 Feature Request: "
-labels: enhancement,gssoc24-ext,hacktoberfest,hacktoberfest-accepted,gssoc,gssoc24,gssoc-extd
+labels: 
+  - enhancement
+  - gssoc24-ext
+  - hacktoberfest
+  - hacktoberfest-accepted
+  - gssoc
+  - gssoc24
+  - gssoc-extd
 
 body:
   - type: markdown
@@ -10,10 +17,10 @@ body:
   - type: textarea
     attributes:
       label: Please describe your feature request related to a problem?
-      description: 'A one liner title for feature.'
+      description: 'A one-liner title for the feature.'
   - type: textarea
     attributes:
-      label: Describe your solution to problem
+      label: Describe your solution to the problem
       description: 'A clear and concise description of what you want to happen.'
   - type: textarea
     attributes:
@@ -27,9 +34,3 @@ body:
     attributes:
       label: Add Relevant Screenshot (if available)
       description: 'supporting an issue'
-
-
-
-
-
-      
