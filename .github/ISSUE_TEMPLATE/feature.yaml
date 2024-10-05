@@ -2,8 +2,8 @@ name: 📑 Feature Request
 description: Suggest an idea for this project
 title: "📑 Feature Request: "
 labels: 
-  - enhancement
-  - gssoc24-ext
+  - 'enhancement'
+  - 'gssoc24-ext'
   - hacktoberfest
   - hacktoberfest-accepted
   - gssoc
